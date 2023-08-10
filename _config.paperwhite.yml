@@ -1,0 +1,7 @@
+menu:
+  writing: /
+  who am I?: /about
+
+giscus:
+  enable: true
+  repo: # your repo
