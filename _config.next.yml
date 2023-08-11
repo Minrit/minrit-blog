@@ -37,9 +37,9 @@ custom_file_path:
 # ---------------------------------------------------------------
 
 # Schemes
-scheme: Muse
+#scheme: Muse
 #scheme: Mist
-#scheme: Pisces
+scheme: Pisces
 #scheme: Gemini
 
 # Dark Mode
@@ -773,7 +773,7 @@ google_analytics:
 
 # Baidu Analytics
 # See: https://tongji.baidu.com
-baidu_analytics: # <app_id>
+baidu_analytics: a10acb9ddc6887452bb1127b215d0fd8
 
 # Growingio Analytics
 # See: https://www.growingio.com
