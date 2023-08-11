@@ -1,7 +1,7 @@
 ---
 title: Vue使用Nginx部署遇到的小问题
 date: 2021-01-14 01:29:17
-tags:
+tags: 技术
 ---
 
 
